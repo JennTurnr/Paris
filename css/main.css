@@ -1,0 +1,61 @@
+body {
+	font-family: 'Playball', cursive;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+/*p {
+	text-align: center;
+	color: white;
+}*/
+
+#home {
+	background: url("/Users/JennTurner/Dropbox/THINKFUL/THINKFUL-SIDEPROJECTS/images/home.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+	position: relative;
+	min-height: 1080px;
+}
+
+#about {
+	background: url("/Users/JennTurner/Dropbox/THINKFUL/THINKFUL-SIDEPROJECTS/images/about.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0;
+	position:relative;
+	min-height:1080px;
+}
+
+#blog {
+ 
+	background: url("/Users/JennTurner/Dropbox/THINKFUL/THINKFUL-SIDEPROJECTS/images/blog.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0;
+	position:relative;
+	min-height:1080px;
+}
+
+#contact {
+ 
+	background: url("/Users/JennTurner/Dropbox/THINKFUL/THINKFUL-SIDEPROJECTS/images/contact.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0;
+	position:relative;
+	min-height:1080px;
+}
